@@ -6,9 +6,9 @@ import (
 
 	"github.com/go-kit/kit/log"
 	"github.com/go-kit/kit/metrics"
-	"github.com/payfazz/backend-template/internal/task/model"
-	"github.com/payfazz/backend-template/internal/task/view"
-	"github.com/payfazz/backend-template/pkg/txn"
+	"github.com/payfazz/test-api/internal/task/model"
+	"github.com/payfazz/test-api/internal/task/view"
+	"github.com/payfazz/test-api/pkg/txn"
 	"gopkg.in/go-playground/validator.v9"
 )
 

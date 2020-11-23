@@ -6,8 +6,8 @@ import (
 
 	qt "github.com/frankban/quicktest"
 	"github.com/google/go-cmp/cmp/cmpopts"
-	"github.com/payfazz/backend-template/internal/task/model"
-	"github.com/payfazz/backend-template/internal/task/model/inmem"
+	"github.com/payfazz/test-api/internal/task/model"
+	"github.com/payfazz/test-api/internal/task/model/inmem"
 )
 
 func TestSuccessCreateTask(t *testing.T) {

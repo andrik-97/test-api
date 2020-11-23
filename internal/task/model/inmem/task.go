@@ -4,7 +4,7 @@ package inmem
 import (
 	"context"
 
-	"github.com/payfazz/backend-template/internal/task/model"
+	"github.com/payfazz/test-api/internal/task/model"
 )
 
 // TaskRepository implements in-memory task.Repository.

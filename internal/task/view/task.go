@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/jmoiron/sqlx"
-	pgmodel "github.com/payfazz/backend-template/internal/postgres/model"
+	pgmodel "github.com/payfazz/test-api/internal/postgres/model"
 	"gopkg.in/go-playground/validator.v9"
 )
 

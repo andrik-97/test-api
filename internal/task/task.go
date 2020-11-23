@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/payfazz/backend-template/internal/task/model"
-	"github.com/payfazz/backend-template/internal/task/view"
+	"github.com/payfazz/test-api/internal/task/model"
+	"github.com/payfazz/test-api/internal/task/view"
 )
 
 type (

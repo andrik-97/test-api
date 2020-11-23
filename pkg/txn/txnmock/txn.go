@@ -4,7 +4,7 @@ package txnmock
 import (
 	"context"
 
-	"github.com/payfazz/backend-template/pkg/txn"
+	"github.com/payfazz/test-api/pkg/txn"
 )
 
 // Tx is a mock transaction object.

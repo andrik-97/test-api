@@ -5,7 +5,7 @@ import (
 
 	"github.com/go-kit/kit/log"
 	kitprometheus "github.com/go-kit/kit/metrics/prometheus"
-	"github.com/payfazz/backend-template/pkg/txn/txnmock"
+	"github.com/payfazz/test-api/pkg/txn/txnmock"
 	stdprometheus "github.com/prometheus/client_golang/prometheus"
 	"gopkg.in/go-playground/validator.v9"
 )

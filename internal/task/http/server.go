@@ -2,7 +2,7 @@
 package http
 
 import (
-	"github.com/payfazz/backend-template/internal/task"
+	"github.com/payfazz/test-api/internal/task"
 )
 
 // Server hosts endpoints to manage tasks.

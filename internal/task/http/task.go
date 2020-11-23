@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	kithttp "github.com/go-kit/kit/transport/http"
-	"github.com/payfazz/backend-template/internal/task"
+	"github.com/payfazz/test-api/internal/task"
 	"github.com/payfazz/go-httpjson"
 )
 

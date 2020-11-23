@@ -5,9 +5,9 @@ import (
 	"context"
 
 	"github.com/jmoiron/sqlx"
-	pgmodel "github.com/payfazz/backend-template/internal/postgres/model"
-	taskmodel "github.com/payfazz/backend-template/internal/task/model"
-	"github.com/payfazz/backend-template/pkg/txn/txnsql"
+	pgmodel "github.com/payfazz/test-api/internal/postgres/model"
+	taskmodel "github.com/payfazz/test-api/internal/task/model"
+	"github.com/payfazz/test-api/pkg/txn/txnsql"
 	"github.com/volatiletech/null/v8"
 	"github.com/volatiletech/sqlboiler/v4/boil"
 )

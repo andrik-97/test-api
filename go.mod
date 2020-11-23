@@ -1,4 +1,4 @@
-module github.com/payfazz/backend-template
+module github.com/payfazz/test-api
 
 go 1.14
 

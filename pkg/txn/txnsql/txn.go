@@ -6,7 +6,7 @@ import (
 	"fmt"
 
 	"github.com/jmoiron/sqlx"
-	"github.com/payfazz/backend-template/pkg/txn"
+	"github.com/payfazz/test-api/pkg/txn"
 )
 
 // TxFromContext gets the *sqlx.Tx value from the context.

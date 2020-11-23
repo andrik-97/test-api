@@ -1,17 +1,3 @@
-# Todo Backend
-
-## How to use this template
-
-1. Create a new repository by clicking "Use this template" in Github.
-
-1. Replace all occurences of `github.com/payfazz/backend-template` to `github.com/payfazz/[your-project-name]`.
-
-1. Rename `cmd/todo` to `cmd/[your_app_name]`.
-
-1. Adjust all names in this README according to your app name.
-
-1. Remove this Howto section.
-
 ## Installing project dependencies
 
 1. [Go 1.14.0 or newer](https://golang.org/dl/).
